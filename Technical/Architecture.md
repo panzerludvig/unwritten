@@ -1,6 +1,8 @@
 ﻿# Architecture
 
-The high-level technical shape of Stories Yet Unwritten. The defining constraint: a language model drives the NPCs at runtime, but it must never be the source of truth for game state. See [[Design/Core Concepts]].
+The high-level technical shape of Stories Yet Unwritten — the *eventual* architecture. The defining constraint: a language model drives the NPCs at runtime, but it must never be the source of truth for game state. See [[Design/Core Concepts]].
+
+> For what is actually built and in scope right now, see [[Technical/Current Stage]]. The first playable version is narration-only text with no rules engine yet; everything below is the direction it grows toward.
 
 ## Tech Stack
 - **Engine / Language:** _To be decided._

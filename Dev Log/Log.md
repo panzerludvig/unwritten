@@ -4,6 +4,14 @@ Chronological record of what was discussed, decided, and *why*. The goal is to p
 
 ---
 
+## 2026-06-27 — First-stage scope: narration-only text
+
+- **Decided the first playable version is the simplest thing that can be played:** fully text-based, the DM narrates everything, and there are **no dice / no rules engine** to begin with. Outcomes are the DM's judgement (interesting but reasonable).
+- **Why:** narration-only is the fastest path to actually playing, which is how the project is meant to discover what it needs. Mechanics get added only when play reveals the DM's judgement alone isn't enough (e.g. when fairness or genuine uncertainty starts to matter).
+- Captured this in a new note [[Technical/Current Stage]], kept deliberately separate from [[Technical/Architecture]] (which still describes the eventual engine-as-source-of-truth design). Added pointers from Architecture and [[Design/Mechanics]] so the current scope and the long-term intent don't get confused.
+
+---
+
 ## 2026-06-27 — DM role defined
 
 - **Development approach:** the game will be built by *playing* it — fleshing out systems and content as they come up in actual play, rather than designing everything up front. This is the practical expression of the "dreamt up as you go" design (see [[Design/Overview]]).

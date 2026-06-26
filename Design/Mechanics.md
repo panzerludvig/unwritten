@@ -2,6 +2,8 @@
 
 The rules of play — what the deterministic engine adjudicates, independent of the language model. See [[Design/Core Concepts]] for why this separation matters.
 
+> Not in the current build. The first playable version has **no dice and no mechanical resolution** — the DM decides outcomes by judgement. See [[Technical/Current Stage]]. This note describes mechanics as they will be added once play shows they're needed.
+
 ---
 
 ## Ruleset Basis
