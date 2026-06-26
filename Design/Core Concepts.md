@@ -22,6 +22,12 @@ What an NPC "knows" and "remembers" is explicit, stored state — not whatever h
 
 ---
 
+## You become what you do
+
+Player characters start as a blank slate — no chosen class, no asserted identity — and are shaped entirely by their actions. What you do repeatedly, you grow better at; sustained patterns of behaviour unlock matching abilities. Identity is earned through play, not selected up front. This is the player-character expression of the project's "unwritten" premise. See [[Design/Characters]].
+
+---
+
 ## Player freedom within consistent rules
 
 The player may attempt anything in conversation, but the world stays internally consistent. Freedom of expression does not mean freedom from consequence or continuity.

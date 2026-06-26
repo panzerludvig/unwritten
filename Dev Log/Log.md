@@ -4,6 +4,14 @@ Chronological record of what was discussed, decided, and *why*. The goal is to p
 
 ---
 
+## 2026-06-27 — Blank-slate, action-driven characters
+
+- **Defining character mechanic:** player characters start as a **blank slate**. Neither the player nor the DM asserts who they are — identity emerges from decisions. Do a lot of fighting → get better at combat; sneak → get better at stealth; act piously → unlock blessings/healing/paladin-like abilities. The classic D&D archetypes become *destinations arrived at through play*, not up-front choices.
+- **Why:** this is the player-character mirror of the project's "unwritten" premise — the character's story is written by playing, same as the world's. Recorded as a Core Concept ("You become what you do") so it constrains future design.
+- **Acknowledged open problem:** something must track accumulated behaviour and govern which abilities unlock and when, so progression feels earned rather than arbitrary. Its shape is deliberately undecided — to be figured out through play. Captured the specific open questions in [[Design/Characters]] (what's tracked, how unlocks work, consistency before any engine exists, whether aptitudes can drift).
+
+---
+
 ## 2026-06-27 — First-stage scope: narration-only text
 
 - **Decided the first playable version is the simplest thing that can be played:** fully text-based, the DM narrates everything, and there are **no dice / no rules engine** to begin with. Outcomes are the DM's judgement (interesting but reasonable).
