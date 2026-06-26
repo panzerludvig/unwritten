@@ -4,6 +4,15 @@ Chronological record of what was discussed, decided, and *why*. The goal is to p
 
 ---
 
+## 2026-06-27 — DM role defined
+
+- **Development approach:** the game will be built by *playing* it — fleshing out systems and content as they come up in actual play, rather than designing everything up front. This is the practical expression of the "dreamt up as you go" design (see [[Design/Overview]]).
+- **Defined the DM's role** in [[Design/Dungeon Master]], modelled directly on a tabletop DM: guide the player through the world, describe what they can perceive, present (non-exhaustive) options, and react to choices with interesting-but-reasonable situations. The player only knows what the DM reveals; options never railroad.
+- **DM owns world state** — characters met, places seen, events, and the current scene — persisted by the simulation, not the model's context window. The world is revealed progressively and must stay consistent once established. See [[Technical/Game State]].
+- **Setting baseline:** a classic D&D fantasy world, chosen deliberately as a loose starting point so play can begin immediately and specifics get filled into [[Design/World]] as they emerge. Recorded the same baseline in [[Design/World]] for consistency.
+
+---
+
 ## 2026-06-26 — Project created
 
 - Scaffolded the Stories Yet Unwritten vault, mirroring the structure and conventions of the Delegate project (Codex-governed Obsidian vault: Design / Technical / Dev Log / Meta / Assets).
