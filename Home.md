@@ -10,7 +10,7 @@
 - [[Dev Log/Log]] — Progress notes
 
 ## Repository
-- **GitHub:** _Not yet created._
+- **GitHub:** https://github.com/panzerludvig/unwritten
 - **Local vault:** C:\Users\Ludde22\Documents\code\Stories Yet Unwritten
 
 ## Status

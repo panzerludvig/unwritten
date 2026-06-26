@@ -1,15 +1,6 @@
 ﻿# Git
 
-Version control for Stories Yet Unwritten. The repository is not yet created on a remote.
-
----
-
-## Setup
-
-When ready, initialise locally and add a remote:
-- `git init`
-- Create the GitHub repo and add it as `origin`
-- Update [[Home]] with the GitHub URL
+Version control for Stories Yet Unwritten. The repository is hosted at https://github.com/panzerludvig/unwritten (default branch `main`).
 
 ---
 
